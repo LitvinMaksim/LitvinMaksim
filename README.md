@@ -39,5 +39,9 @@
 <li>
 <a href="https://github.com/LitvinMaksim/RestAPI_Postman"> Testing REST API via Postman </a>
 </li>
+<li>
+<a href="https://github.com/LitvinMaksim/CharlesProxy"> Replacing data with CharlesProxy </a>
+</li>
+
 
 
