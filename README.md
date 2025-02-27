@@ -4,7 +4,7 @@
 
  My name is Maxim, I am a junior QA Engineer. I took the course ‘Functional Software Testing’, from the instructor Artem Rusov.
 
-# A little about me 
+## A little about me 
  <img align="right" src=https://i.gifer.com/2Jf.gif height="245" data-canonical-src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
  
  <li align="left"> During the course I learnt how to apply software testing theory, work with test design techniques, work with documentation, test web applications, test API, work with Databases, test mobile devices, work with git and bash.
@@ -14,7 +14,7 @@
 
  
 
-# Some Tools I Use
+## Some Tools I Use
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHe8aNTUPt3TA/company-logo_200_200/company-logo_200_200/0/1689265711152/qaseio_logo?e=1748476800&v=beta&t=xggX_SzM_bo2TrbyKFFpFNjpo728HDXmNhJXg7nbz6Q" title="qase" alt="qase" width="40" height="40"/>&nbsp 
@@ -32,11 +32,12 @@
 </div>
 
 
-# Test Artifacts
+## Test Artifacts
 <li>
 <a href="https://github.com/LitvinMaksim/Web_shop_testing" >Web shop testing</a>
 </li>
 <li>
 <a href="https://github.com/LitvinMaksim/RestAPI_Postman"> Testing REST API via Postman </a>
 </li>
+
 
