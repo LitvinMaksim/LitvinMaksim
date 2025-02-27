@@ -45,6 +45,8 @@
 <li>
 <a href="https://github.com/LitvinMaksim/MySQL"> MySQL </a> 
 </li>
+<li>
+<a href="https://github.com/LitvinMaksim/bash"> Bash </a> </li>
 
 
 
