@@ -54,7 +54,7 @@
 </div>
 <p align="center" dir="auto">
 <a href="https://t.me/Maksim_Litvin45" rel="nofollow"><img src="https://camo.githubusercontent.com/fcbf048deb1f46a9fdfea57f18321f6e641acb024cbe91522b2fb1534803251c/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d363333303626666f726d61743d706e67" width="40" height="40" alt="telegram" data-canonical-src="https://img.icons8.com/?size=512&amp;id=63306&amp;format=png" style="max-width: 100%;"></a>
-<a href="mailto:o.litvinmax1999gmail.com"><img src="https://camo.githubusercontent.com/b726567d3ed8caf80f48ad578fb9cf3647e528bb1900e40b8925e89a44c661bd/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d503755496c686270577a5a6d26666f726d61743d706e67" width="40" height="40" alt="gmail" data-canonical-src="https://img.icons8.com/?size=512&amp;id=P7UIlhbpWzZm&amp;format=png" style="max-width: 100%;"></a>
+<a href="mailto:litvinmax1999gmail.com"><img src="https://camo.githubusercontent.com/b726567d3ed8caf80f48ad578fb9cf3647e528bb1900e40b8925e89a44c661bd/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d503755496c686270577a5a6d26666f726d61743d706e67" width="40" height="40" alt="gmail" data-canonical-src="https://img.icons8.com/?size=512&amp;id=P7UIlhbpWzZm&amp;format=png" style="max-width: 100%;"></a>
 </p>
 
 
