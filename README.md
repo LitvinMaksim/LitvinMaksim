@@ -36,3 +36,7 @@
 <li>
 <a href="https://github.com/LitvinMaksim/Web_shop_testing" >Web shop testing</a>
 </li>
+<li>
+<a href="https://github.com/LitvinMaksim/RestAPI_Postman"> Testing REST API via Postman </a>
+</li>
+
