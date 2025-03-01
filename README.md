@@ -9,8 +9,8 @@
  
  <li align="left"> During the course I learnt how to apply software testing theory, work with test design techniques, work with documentation, test web applications, test API, work with Databases, test mobile devices, work with git and bash.
  </li>
- <li> Check out my resume: Будет вставлено  </li>
- <li> My certificates Тоже будет  </li>
+ 
+ <li> <a href="https://drive.google.com/file/d/1ALxjh1jrAlejQ79MVsQP_Z63jMqyQG5C/view?usp=sharing" >My certificates “Software Functional Testing” </a>  </li>
 
  
 
